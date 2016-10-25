@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		CE9E00081DBF66A7003F7EC3 /* testGit123UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = CE9E00071DBF66A7003F7EC3 /* testGit123UITests.m */; };
+		CE9E00171DBF6A2D003F7EC3 /* testing12344546.m in Sources */ = {isa = PBXBuildFile; fileRef = CE9E00161DBF6A2D003F7EC3 /* testing12344546.m */; };
 		CE9EFFE41DBF66A7003F7EC3 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = CE9EFFE31DBF66A7003F7EC3 /* main.m */; };
 		CE9EFFE71DBF66A7003F7EC3 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = CE9EFFE61DBF66A7003F7EC3 /* AppDelegate.m */; };
 		CE9EFFEA1DBF66A7003F7EC3 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CE9EFFE91DBF66A7003F7EC3 /* ViewController.m */; };
@@ -38,6 +39,8 @@
 		CE9E00031DBF66A7003F7EC3 /* testGit123UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testGit123UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE9E00071DBF66A7003F7EC3 /* testGit123UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = testGit123UITests.m; sourceTree = "<group>"; };
 		CE9E00091DBF66A7003F7EC3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CE9E00151DBF6A2D003F7EC3 /* testing12344546.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = testing12344546.h; sourceTree = "<group>"; };
+		CE9E00161DBF6A2D003F7EC3 /* testing12344546.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = testing12344546.m; sourceTree = "<group>"; };
 		CE9EFFDF1DBF66A6003F7EC3 /* testGit123.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = testGit123.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE9EFFE31DBF66A7003F7EC3 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		CE9EFFE51DBF66A7003F7EC3 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -114,6 +117,8 @@
 				CE9EFFE61DBF66A7003F7EC3 /* AppDelegate.m */,
 				CE9EFFE81DBF66A7003F7EC3 /* ViewController.h */,
 				CE9EFFE91DBF66A7003F7EC3 /* ViewController.m */,
+				CE9E00151DBF6A2D003F7EC3 /* testing12344546.h */,
+				CE9E00161DBF6A2D003F7EC3 /* testing12344546.m */,
 				CE9EFFEB1DBF66A7003F7EC3 /* Main.storyboard */,
 				CE9EFFEE1DBF66A7003F7EC3 /* Assets.xcassets */,
 				CE9EFFF01DBF66A7003F7EC3 /* LaunchScreen.storyboard */,
@@ -273,6 +278,7 @@
 				CE9EFFEA1DBF66A7003F7EC3 /* ViewController.m in Sources */,
 				CE9EFFE71DBF66A7003F7EC3 /* AppDelegate.m in Sources */,
 				CE9EFFE41DBF66A7003F7EC3 /* main.m in Sources */,
+				CE9E00171DBF6A2D003F7EC3 /* testing12344546.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
